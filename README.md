@@ -3,7 +3,7 @@
     <title> </title>
   </head>
   <body>   
-<font color= "Red"> <img src="chakrabortycyber.jpg" weight= "300" height= "300" align="center"> </font>
-<p> I'm Cyber Chakraborty. A Cricketer playing as a Wicket Keeper Batsman.Practicing in Abahani Indoor Stadium. My aim is to represent my country in future.> </p>
+<img src="chakrabortycyber.jpg" weight= "300" height= "300" align="center">
+<p> <font color= "Red"> I'm Cyber Chakraborty. A Cricketer playing as a Wicket Keeper Batsman.Practicing in Abahani Indoor Stadium. My aim is to represent my country in future.> </font> </p>
 </body>
 </html>
